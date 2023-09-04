@@ -1,0 +1,16 @@
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.AssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.exe.config
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.exe
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.pdb
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.exe
+C:\Users\pinar\OneDrive\Masaüstü\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.pdb
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.exe.config
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.exe
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\bin\Debug\Matris kosegen toplamı.pdb
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.AssemblyReference.cache
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.csproj.CoreCompileInputs.cache
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.exe
+C:\Users\pinar\OneDrive\Masaüstü\kodlar\C# kodları\Matris kosegen toplamı\Matris kosegen toplamı\obj\Debug\Matris kosegen toplamı.pdb
